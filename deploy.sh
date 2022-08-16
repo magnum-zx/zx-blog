@@ -10,6 +10,5 @@ cd docs/.vitepress/dist &&
 git init &&
 git add -A &&
 git commit -m 'deploy' &&
-git remote add origin git@github.com:magnum-zx/zx-blog.git &&
-git push -f -u origin main:gh-pages &&
+git push -f git@github.com:magnum-zx/magnum-zx.github.io.git master:gh-pages
 cd -
