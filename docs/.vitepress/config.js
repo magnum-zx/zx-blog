@@ -1,5 +1,5 @@
 export default {
-	// base: '/zx-blog/',
+	base: '/zx-blog',
 	title: 'zx-blog', //站点标题
 	description: '记录一下本人的学习过程', //mate标签description，多用于搜索引擎抓取摘要
 	themeConfig: {
