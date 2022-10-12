@@ -13,23 +13,23 @@ export default {
 				items: [
 					{
 						text: '实现Promise',
-						link: '/articles/JS手写题/Promise',
+						link: 'articles/JS手写题/Promise',
 					},
 					{
 						text: '实现Promise类方法',
-						link: '/articles/JS手写题/PromiseClassFunction',
+						link: 'articles/JS手写题/PromiseClassFunction',
 					},
 					{
 						text: '实现发布订阅模式',
-						link: '/articles/JS手写题/发布订阅模式',
+						link: 'articles/JS手写题/发布订阅模式',
 					},
 					{
 						text: '实现函数柯里化',
-						link: '/articles/JS手写题/柯里化',
+						link: 'articles/JS手写题/柯里化',
 					},
 					{
 						text: '实现数组拍平',
-						link: '/articles/JS手写题/数组拍平',
+						link: 'articles/JS手写题/数组拍平',
 					},
 				],
 			},
